@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHORkBZi5Nc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSP\\source\\repos\\Biblioteca\\Biblioteca.Identity\\Biblioteca.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSP\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.aspnet.webapi.owin\\5.2.9\\microsoft.aspnet.webapi.owin.5.2.9.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.3.0\\microsoft.identitymodel.jsonwebtokens.5.3.0.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.identitymodel.logging\\5.3.0\\microsoft.identitymodel.logging.5.3.0.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.3.0\\microsoft.identitymodel.tokens.5.3.0.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.owin\\4.2.2\\microsoft.owin.4.2.2.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.owin.security\\4.2.2\\microsoft.owin.security.4.2.2.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.owin.security.jwt\\4.2.2\\microsoft.owin.security.jwt.4.2.2.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\microsoft.owin.security.oauth\\4.2.2\\microsoft.owin.security.oauth.4.2.2.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512",
+    "C:\\Users\\MSP\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.3.0\\system.identitymodel.tokens.jwt.5.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.IdentityModel.JsonWebTokens\" 5.3.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Newtonsoft.Json\" 10.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.IdentityModel.Tokens.Jwt\" 5.3.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}

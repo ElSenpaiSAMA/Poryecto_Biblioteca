@@ -1,0 +1,17 @@
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.csproj.AssemblyReference.cache
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.csproj.CoreCompileInputs.cache
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.dll.config
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.deps.json
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Domain.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Infrastructure.EntityFramework.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Domain.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Infrastructure.EntityFramework.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Infrastructure.EntityFramework.dll.config
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Bibliote.4CC83025.Up2Date
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\refint\Biblioteca.Repository.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\ref\Biblioteca.Repository.dll

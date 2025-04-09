@@ -1,0 +1,10 @@
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\bin\Debug\net8.0\Biblioteca.Domain.deps.json
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\bin\Debug\net8.0\Biblioteca.Domain.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\bin\Debug\net8.0\Biblioteca.Domain.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.csproj.AssemblyReference.cache
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\refint\Biblioteca.Domain.dll
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\Biblioteca.Domain.pdb
+C:\Users\MSP\source\repos\Biblioteca\Biblioteca.Domain\obj\Debug\net8.0\ref\Biblioteca.Domain.dll
